@@ -10,6 +10,8 @@ public class RandomTest {
 		
 		System.out.println("Checking to see if UIExample branch works");
 		
+		System.out.println("Checking to see if ExampleBranch works");
+		
 		
 		
 	}
