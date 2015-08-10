@@ -8,6 +8,8 @@ public class RandomTest {
 		
 		System.out.println("Hello there " + name);
 		
+		System.out.println("Checking to see if UIExample branch works");
+		
 		
 		
 	}
